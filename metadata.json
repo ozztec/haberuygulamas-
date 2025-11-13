@@ -1,0 +1,5 @@
+{
+  "name": "Türkçe Haberler",
+  "description": "Gemini API kullanarak en son Türkçe haberleri sunan, mobil uyumlu bir web uygulaması. Haberler periyodik olarak güncellenir ve çeşitli kategorilerde sunulur.",
+  "requestFramePermissions": []
+}
